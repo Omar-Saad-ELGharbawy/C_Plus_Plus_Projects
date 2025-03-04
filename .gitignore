@@ -1,3 +1,3 @@
-/.vscode
-/Hospital System Project/main.exe
-/Hospital System Project/output
+.vscode/
+output/
+*.exe
